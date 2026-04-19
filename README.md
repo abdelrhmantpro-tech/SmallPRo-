@@ -10,14 +10,8 @@ Demo React frontend for Small Pro Smart ERP System.
 - Manager: `manager@nileagency.com` / `123456`
 
 ## Run
-```bash
 npm install
 npm run dev
-```
 
 ## Build
-```bash
 npm run build
-```
-
-All data is mocked in localStorage to simulate backend APIs.
